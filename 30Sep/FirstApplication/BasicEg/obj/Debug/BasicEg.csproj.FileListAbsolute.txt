@@ -1,0 +1,11 @@
+F:\Example\New folder\firstapplication\BasicEg\obj\Debug\BasicEg.csprojAssemblyReference.cache
+F:\Example\New folder\firstapplication\BasicEg\obj\Debug\BasicEg.csproj.CoreCompileInputs.cache
+F:\Example\New folder\firstapplication\BasicEg\bin\Debug\BasicEg.exe.config
+F:\Example\New folder\firstapplication\BasicEg\bin\Debug\BasicEg.exe
+F:\Example\New folder\firstapplication\BasicEg\bin\Debug\BasicEg.pdb
+F:\Example\New folder\firstapplication\BasicEg\obj\Debug\BasicEg.exe
+F:\Example\New folder\firstapplication\BasicEg\obj\Debug\BasicEg.pdb
+E:\Example\C#\30Sep\FirstApplication\BasicEg\obj\Debug\BasicEg.csprojAssemblyReference.cache
+E:\Example\C#\30Sep\FirstApplication\BasicEg\obj\Debug\BasicEg.csproj.CoreCompileInputs.cache
+E:\Example\C#\30Sep\FirstApplication\BasicEg\obj\Debug\BasicEg.exe
+E:\Example\C#\30Sep\FirstApplication\BasicEg\obj\Debug\BasicEg.pdb

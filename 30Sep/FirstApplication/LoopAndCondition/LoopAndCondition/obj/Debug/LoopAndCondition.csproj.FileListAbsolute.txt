@@ -1,0 +1,14 @@
+C:\Users\jines\source\repos\LoopAndCondition\LoopAndCondition\obj\Debug\LoopAndCondition.csprojAssemblyReference.cache
+C:\Users\jines\source\repos\LoopAndCondition\LoopAndCondition\obj\Debug\LoopAndCondition.csproj.CoreCompileInputs.cache
+C:\Users\jines\source\repos\LoopAndCondition\LoopAndCondition\bin\Debug\LoopAndCondition.exe.config
+C:\Users\jines\source\repos\LoopAndCondition\LoopAndCondition\bin\Debug\LoopAndCondition.exe
+C:\Users\jines\source\repos\LoopAndCondition\LoopAndCondition\bin\Debug\LoopAndCondition.pdb
+C:\Users\jines\source\repos\LoopAndCondition\LoopAndCondition\obj\Debug\LoopAndCondition.exe
+C:\Users\jines\source\repos\LoopAndCondition\LoopAndCondition\obj\Debug\LoopAndCondition.pdb
+E:\Example\C#\30Sep\FirstApplication\LoopAndCondition\LoopAndCondition\bin\Debug\LoopAndCondition.exe.config
+E:\Example\C#\30Sep\FirstApplication\LoopAndCondition\LoopAndCondition\bin\Debug\LoopAndCondition.exe
+E:\Example\C#\30Sep\FirstApplication\LoopAndCondition\LoopAndCondition\bin\Debug\LoopAndCondition.pdb
+E:\Example\C#\30Sep\FirstApplication\LoopAndCondition\LoopAndCondition\obj\Debug\LoopAndCondition.csprojAssemblyReference.cache
+E:\Example\C#\30Sep\FirstApplication\LoopAndCondition\LoopAndCondition\obj\Debug\LoopAndCondition.csproj.CoreCompileInputs.cache
+E:\Example\C#\30Sep\FirstApplication\LoopAndCondition\LoopAndCondition\obj\Debug\LoopAndCondition.exe
+E:\Example\C#\30Sep\FirstApplication\LoopAndCondition\LoopAndCondition\obj\Debug\LoopAndCondition.pdb
